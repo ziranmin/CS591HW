@@ -1,6 +1,6 @@
-#CS591 HW1
-#Ziran Min
-#U59274427
+CS591 HW1
+Ziran Min
+U59274427
 
 You can see my code, answers, and comments in the Ziran_Min_CS591_HW1.ipynb file.
 
