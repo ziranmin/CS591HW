@@ -1,11 +1,1 @@
-CS591 HW1
-Ziran Min
-U59274427
-
-You can see my code, answers, and comments in the Ziran_Min_CS591_HW1.ipynb file.
-
-You can also run it on Jupyter Notebook.
-
-You can go to my github https://github.com/ziranmin/CS591HW, to have a better look of my Ziran_Min_CS591_HW1.ipynb report.
-
-Ngram data is too big, so I don't upload it to here
+By collecting features from words in sentences, I built a machine learning classifier that can classify whether a word in a sentence is complex or simple with accuracy (F1-score) higher than 0.8 which reached class top 10 (with bonus points). 
